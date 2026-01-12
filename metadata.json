@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Mimic",
+  "description": "A high-fidelity text-to-speech application that uses Gemini to mimic the voice and style of a reference audio clip.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
